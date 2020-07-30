@@ -1,0 +1,9 @@
+.moving-character {
+  position: absolute;
+  top: 350px;
+  left: 0;
+  font-size: 35rem;
+  line-height: 0;
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
